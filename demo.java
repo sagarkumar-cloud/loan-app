@@ -4,5 +4,6 @@ class Demo{
         int a 90;
         int b=98;
         System.out.println(a+b);
+        String name="sagar";
     }
 }
