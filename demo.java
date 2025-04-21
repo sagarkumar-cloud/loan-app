@@ -6,6 +6,9 @@ class Demo{
         System.out.println(a+b);
         String name="sagar";
         int[] arr = {1,2,3,4,5,6};
+
         Integer i=90;
+        String var="swaraswati";
+
     }
 }
