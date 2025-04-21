@@ -5,5 +5,6 @@ class Demo{
         int b=98;
         System.out.println(a+b);
         String name="sagar";
+        int[] arr = {1,2,3,4,5,6};
     }
 }
