@@ -7,5 +7,8 @@ class Sagar{
     boolean b= true;
     int k=90;
   }
+  public static void m2(){
+    //some logic
+  }
 }
 
